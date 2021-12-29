@@ -46,7 +46,7 @@
     <dimen name="status_bar_icon_drawing_size">10dp</dimen> -->
 
     <!-- The font size for the clock in the status bar. -->
-    <dimen name="status_bar_clock_size">12sp</dimen>
+    <dimen name="status_bar_clock_size">13sp</dimen>
 
     <!-- Skeleton string format for displaying the date when an alarm is set. -->
     <string name="abbrev_wday_month_day_no_year_alarm">ddMMyy</string>
